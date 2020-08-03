@@ -1,0 +1,11 @@
+{
+  "database": [
+    {
+      "name":"Rihanna",
+      "songs": ["We found love","Umbrella","The Monster","Diamonds","Love the way you lie", "Rude boy","Towards the sun","Rehab","Te amo","Only girl","Can't remember to forget you","S&M"],
+      "albumName": "Popular songs",
+      "imageUrl": "https://images.squarespace-cdn.com/content/541dcd34e4b0d739251503d3/1444309152991-F8J1VH2MYHE4HD3ATN68/image-asset.jpeg?format=1000w&content-type=image%2Fjpeg"
+    }
+  ]
+
+}
